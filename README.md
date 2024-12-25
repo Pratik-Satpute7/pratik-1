@@ -1,4 +1,4 @@
 # pratik-1
-day2
+day
 # Readme.md
 md==> Stand for the markdown
